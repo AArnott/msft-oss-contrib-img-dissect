@@ -4,7 +4,7 @@ $(document).ready(function() {
         { x: 1, y: 0, github: null },
         { x: 2, y: 0, github: null },
         { x: 3, y: 0, github: null },
-        { x: 4, y: 0, github: null },
+        { x: 4, y: 0, github: "Newrad0603" },
         { x: 5, y: 0, github: null },
         { x: 6, y: 0, github: null },
         { x: 7, y: 0, github: null },
